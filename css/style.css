@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    display: grid;
+    place-content: center;
+    padding-top: 150px;
+}
+.header {
+    text-align: center;
+}
+.mainbox {
+    padding: 20px;
+    border: 5px solid rgb(16, 19, 19);
+    border-radius: 20px;
+    background: gray;
+}
+button {
+    border-radius:  20px;
+}     
+.ShowNum {
+    border: 1px solid black;
+    text-align: center;
+}  
